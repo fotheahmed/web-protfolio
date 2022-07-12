@@ -64,7 +64,7 @@ section {
     border-image-slice: 1;
 }
 #baby-dev{
-    border-left: 1% solid;
+    border-left: 7px solid;
     border-image: linear-gradient(0deg, cyan, blue);
     border-image-slice: 1;
 }
