@@ -42,6 +42,9 @@ section {
     background-position: bottom right;
     /* border: 1px solid red; */
 }
+#dream-profile{
+    width: 100%;
+}
 .margin-padding{
     margin-left: 5%;
     padding: 2%;
